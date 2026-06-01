@@ -1,2 +1,2 @@
-Certificates:
-Youbee.ai Full Stack Web Development: Certificates/Youbee.ai-FSWD-Certificate.pdf
+Certifications:
+ [Full Stack Web Development Certificate — Youbee.ai (2026)](Certificates/Youbee.ai-FSWD-Certificate.pdf)
